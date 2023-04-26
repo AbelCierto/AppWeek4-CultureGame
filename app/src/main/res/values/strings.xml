@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">appWeek4_02</string>
+    <string name="tv_question">Es Lima Capital de Peru?</string>
+    <string name="bt_answer1">Si</string>
+    <string name="bt_answer2">No</string>
+    <string name="sgt">Next</string>
+    <string name="tv_title">Welcome to culture games</string>
+    <string name="b_login">Start</string>
+    <string name="et_email">Nickname</string>
+    <string name="tv_nickname">Nickname : </string>
+    <string name="tv_level">Select level : </string>
+    <string name="bt_Level1">Level 1</string>
+    <string name="bt_Level2">Level 2</string>
+    <string name="bt_logout">Logout</string>
+    <string name="tv_name_title">Nickname :</string>
+    <string name="tv_name">Aqui viene el nombre</string>
+    <string name="tv_Level">Level : </string>
+    <string name="tv_Level1">1</string>
+    <string name="tv_healthPoint">Health Point : </string>
+    <string name="tv_PointHealth">3</string>
+    <string name="tv_score">Score : </string>
+    <string name="tv_ScorePoint">0</string>
+    <string name="tv_questionNumber">Question number : </string>
+    <string name="tv_Number">0</string>
+</resources>
